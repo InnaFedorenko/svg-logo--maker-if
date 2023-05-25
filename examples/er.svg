@@ -1,0 +1,12 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+        <circle cx="200" cy="200" r="80" fill="blue"/>
+      <text x="200" y="200" font-size="40" text-anchor="middle" fill="red">Circle</text>
+      
+        <rect x="500" y="500" width="200" height="200" fill="green"/>
+      <text x="600" y="700" font-size="40" text-anchor="middle" fill="black">Square</text>
+      
+        <polygon points="200,400 400,400 300,200" fill="red"/>
+      <text x="300" y="350" font-size="40" text-anchor="middle" fill="black">Triangle</text>
+        </svg>
+        

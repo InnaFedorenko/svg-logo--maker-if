@@ -1,0 +1,7 @@
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="400" height="400">
+        <rect x="100" y="100" width="500" height="500" fill="green"/>
+      <text x="250" y="250" font-size="40" text-anchor="middle" fill="red">Square</text>
+      
+        </svg>
+        
