@@ -10,7 +10,7 @@
 ##  Description
 - The ReadMe Generator Tool was developed by [Inna Fedorenko](https://github.com/InnaFedorenko).
 - [GiHub Link](https://github.com/InnaFedorenko/svg-logo--maker-if)
-- [Video recording](https://drive.google.com/file/d/1WsokFqGoO21JeFUKt2WC43Mm2vRFmo5S/preview" width="640" height="480 )
+- [Video](https://drive.google.com/file/d/1PgDhsLjAzBM-vjCNRJyOgtojm49hnKDr/view" width="640" height="480 )
 - Date: 05-25-2023
 
 ### Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics). The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
