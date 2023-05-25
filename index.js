@@ -15,12 +15,6 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 */
 
-// // Connect node module to work with questions
-// const inquirer = require('inquirer');
-// // Connect node module to work with files
-// const fs = require('fs');
-// Connect module to work with date
-// const moment = require('moment');
 // Connect my module to generate readme data 
 const generateSVG = require('./lib/generateSVG');
 
@@ -28,8 +22,6 @@ const generateSVG = require('./lib/generateSVG');
 function init() {
     console.log('\x1b[33m%s\x1b[0m',`Welcome to the SVG generator!\nPlease follow the instructions:`);
     generateSVG.run();
-    // console.log(renerateMarkdown.renderLicenseBadge('MIT'))
-    //askQuestions(questions);
 }
 
 // Function call to initialize app
