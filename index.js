@@ -27,7 +27,7 @@ const generateSVG = require('./lib/generateSVG');
 // Function to initialize app
 function init() {
     console.log('\x1b[33m%s\x1b[0m',`Welcome to the SVG generator!\nPlease follow the instructions:`);
-    generateSVG.renderSVG('testInna');
+    generateSVG.run();
     // console.log(renerateMarkdown.renderLicenseBadge('MIT'))
     //askQuestions(questions);
 }
