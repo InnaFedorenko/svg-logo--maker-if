@@ -5,5 +5,27 @@
   },
   "devDependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "name": "svg-logo--maker-if",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InnaFedorenko/svg-logo--maker-if.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InnaFedorenko/svg-logo--maker-if/issues"
+  },
+  "homepage": "https://github.com/InnaFedorenko/svg-logo--maker-if#readme"
 }
